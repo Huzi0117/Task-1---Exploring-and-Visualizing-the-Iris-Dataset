@@ -1,0 +1,16 @@
+# Task 4 - Predicting Insurance Claim Amounts
+
+## Objective
+To predict medical insurance charges using customer information.
+
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+## Approach
+Explored the dataset, visualized age, BMI, and smoking effects, trained a Linear Regression model, and evaluated it.
+
+## Results
+The model estimated charges and showed that smoking status strongly affects insurance costs.
+
+## Insights
+Smoking, age, and BMI are important factors in insurance charge prediction.
