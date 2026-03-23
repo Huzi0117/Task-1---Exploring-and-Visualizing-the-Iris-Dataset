@@ -1,0 +1,16 @@
+# Task 3 - Customer Churn Prediction
+
+## Objective
+To predict whether a bank customer is likely to leave the bank.
+
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+## Approach
+Cleaned the data, encoded categorical variables, trained a classification model, and evaluated it.
+
+## Results
+The model predicted churn and highlighted important features.
+
+## Insights
+Feature importance helps understand why customers leave.
